@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -96,3 +97,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+# blog_pessoal_projeto
+Repositório para registrar o processo de criação do projeto blog pessoal, que será usado para aprender o framework nestjs
+>>>>>>> 47e75af82e5c316b59c0db06e2729c627c9dca33
