@@ -16,6 +16,7 @@ TypeOrmModule.forRoot({
   database: 'db_blogpessoal',
   entities: [Postagem],
   synchronize: true,
+  logging: true,
 }),
 PostagemModule
 
